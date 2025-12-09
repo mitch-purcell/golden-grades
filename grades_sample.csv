@@ -1,0 +1,101 @@
+id,subject,subject_desc,course_num,title,session,section,instructor,a,a_minus,a_plus,b,b_minus,b_plus,c,c_minus,c_plus,d,d_minus,d_plus,f,w
+1,COSC,Computer Science,1000,Intro to Programming,Session 1,101,Thomas Smith,9,10,13,10,7,0,4,3,12,15,12,15,11,12
+2,COSC,Computer Science,1000,Intro to Programming,Session 1,102,Alice Johnson,7,0,14,5,11,3,8,3,7,4,13,1,15,0
+3,COSC,Computer Science,1100,Data Structures,Session 1,101,David Lee,15,3,1,0,8,7,0,2,7,14,4,15,15,15
+4,COSC,Computer Science,1100,Data Structures,Session 1,102,Emily Carter,2,5,15,8,12,6,4,13,3,6,13,1,11,4
+5,COSC,Computer Science,1200,Algorithms,Session 1,101,Michael Brown,5,2,3,10,6,9,2,10,2,10,3,12,9,11
+6,COSC,Computer Science,1200,Algorithms,Session 1,102,Sarah Nguyen,12,9,11,4,8,6,9,4,7,11,9,0,3,12
+7,COSC,Computer Science,1300,Computer Systems,Session 1,101,James Miller,1,10,9,11,15,4,1,1,7,7,11,1,7,13
+8,COSC,Computer Science,1300,Computer Systems,Session 1,102,Laura Green,13,7,8,2,13,6,1,14,5,11,1,7,4,9
+9,COSC,Computer Science,1400,Databases,Session 1,101,Daniel Harris,2,4,5,0,15,14,0,13,3,0,11,14,0,3
+10,COSC,Computer Science,1400,Databases,Session 1,102,Grace Kim,12,10,0,7,8,8,7,11,1,9,15,3,14,7
+11,MATH,Mathematics,1001,Calculus I,Session 1,101,Thomas Smith,15,13,11,1,10,11,5,10,12,5,10,0,5,2
+12,MATH,Mathematics,1001,Calculus I,Session 1,102,Alice Johnson,6,3,8,11,0,8,14,14,4,2,4,10,0,9
+13,MATH,Mathematics,1101,Calculus II,Session 1,101,David Lee,10,6,12,5,15,14,12,0,9,10,8,8,3,12
+14,MATH,Mathematics,1101,Calculus II,Session 1,102,Emily Carter,4,14,0,11,6,10,6,12,15,1,2,10,10,12
+15,MATH,Mathematics,1201,Linear Algebra,Session 1,101,Michael Brown,5,12,6,6,7,9,3,5,14,10,2,11,13,6
+16,MATH,Mathematics,1201,Linear Algebra,Session 1,102,Sarah Nguyen,6,11,5,2,14,12,0,3,14,9,6,12,10,10
+17,MATH,Mathematics,1301,Discrete Math,Session 1,101,James Miller,15,11,5,13,3,2,12,13,11,7,6,14,7,5
+18,MATH,Mathematics,1301,Discrete Math,Session 1,102,Laura Green,15,9,10,6,7,1,6,14,11,4,15,3,6,7
+19,MATH,Mathematics,1401,Probability,Session 1,101,Daniel Harris,11,1,12,5,6,9,0,10,7,12,9,7,10,14
+20,MATH,Mathematics,1401,Probability,Session 1,102,Grace Kim,12,1,7,4,3,1,14,2,4,4,1,4,4,8
+21,ENGL,English,1002,Composition,Session 1,101,Thomas Smith,15,3,15,13,0,1,14,6,1,13,0,7,7,7
+22,ENGL,English,1002,Composition,Session 1,102,Alice Johnson,10,13,1,4,12,5,3,8,3,15,2,13,0,7
+23,ENGL,English,1102,Literature Survey,Session 1,101,David Lee,6,9,13,1,4,2,8,10,15,10,9,7,4,9
+24,ENGL,English,1102,Literature Survey,Session 1,102,Emily Carter,3,11,2,4,0,14,3,2,14,12,6,4,13,10
+25,ENGL,English,1202,Creative Writing,Session 1,101,Michael Brown,12,6,8,1,2,4,12,2,7,10,6,7,11,4
+26,ENGL,English,1202,Creative Writing,Session 1,102,Sarah Nguyen,4,7,10,15,14,12,6,12,13,0,11,11,3,0
+27,ENGL,English,1302,Technical Writing,Session 1,101,James Miller,4,10,10,12,9,3,6,12,15,8,10,15,1,2
+28,ENGL,English,1302,Technical Writing,Session 1,102,Laura Green,0,14,12,6,7,14,2,2,9,10,10,14,3,7
+29,ENGL,English,1402,Shakespeare,Session 1,101,Daniel Harris,14,6,8,8,2,0,7,5,5,15,10,3,4,14
+30,ENGL,English,1402,Shakespeare,Session 1,102,Grace Kim,4,6,13,10,12,1,13,12,10,8,11,0,5,8
+31,BIOL,Biology,1003,General Biology,Session 1,101,Thomas Smith,4,2,12,14,10,15,2,3,10,4,5,6,6,14
+32,BIOL,Biology,1003,General Biology,Session 1,102,Alice Johnson,15,6,7,9,11,0,10,13,11,8,3,1,6,15
+33,BIOL,Biology,1103,Cell Biology,Session 1,101,David Lee,6,13,10,2,2,11,5,3,8,8,8,4,15,3
+34,BIOL,Biology,1103,Cell Biology,Session 1,102,Emily Carter,8,9,15,8,11,1,12,10,6,3,14,9,12,4
+35,BIOL,Biology,1203,Ecology,Session 1,101,Michael Brown,12,0,4,10,11,12,6,13,9,14,4,9,7,12
+36,BIOL,Biology,1203,Ecology,Session 1,102,Sarah Nguyen,7,10,11,13,1,6,9,6,3,9,6,13,10,3
+37,BIOL,Biology,1303,Microbiology,Session 1,101,James Miller,2,8,3,11,8,2,6,1,12,13,0,13,10,12
+38,BIOL,Biology,1303,Microbiology,Session 1,102,Laura Green,9,9,12,0,5,11,14,4,3,1,0,8,2,6
+39,BIOL,Biology,1403,Genetics,Session 1,101,Daniel Harris,6,9,3,2,10,6,9,11,11,10,6,13,12,2
+40,BIOL,Biology,1403,Genetics,Session 1,102,Grace Kim,11,1,5,10,4,14,7,9,14,3,7,0,14,4
+41,CHEM,Chemistry,1004,General Chemistry I,Session 1,101,Thomas Smith,8,9,9,1,6,6,14,14,3,0,14,12,8,4
+42,CHEM,Chemistry,1004,General Chemistry I,Session 1,102,Alice Johnson,11,11,11,12,13,5,0,10,5,10,2,3,1,12
+43,CHEM,Chemistry,1104,General Chemistry II,Session 1,101,David Lee,6,7,5,14,7,2,1,15,3,9,7,15,13,10
+44,CHEM,Chemistry,1104,General Chemistry II,Session 1,102,Emily Carter,5,1,4,4,4,5,10,14,4,4,14,7,8,0
+45,CHEM,Chemistry,1204,Organic Chemistry I,Session 1,101,Michael Brown,4,8,14,11,1,14,7,3,14,3,8,15,0,5
+46,CHEM,Chemistry,1204,Organic Chemistry I,Session 1,102,Sarah Nguyen,9,7,8,1,4,15,12,2,3,4,9,6,0,5
+47,CHEM,Chemistry,1304,Organic Chemistry II,Session 1,101,James Miller,10,14,14,1,15,1,14,3,12,15,14,5,13,14
+48,CHEM,Chemistry,1304,Organic Chemistry II,Session 1,102,Laura Green,13,11,15,8,8,6,10,14,5,7,9,10,12,11
+49,CHEM,Chemistry,1404,Analytical Chemistry,Session 1,101,Daniel Harris,10,12,5,9,1,5,7,2,3,0,5,3,11,6
+50,CHEM,Chemistry,1404,Analytical Chemistry,Session 1,102,Grace Kim,13,10,3,0,8,3,14,6,7,7,4,15,5,3
+51,PHYS,Physics,1005,Physics I,Session 1,101,Thomas Smith,1,7,15,12,10,3,0,14,13,15,15,7,7,8
+52,PHYS,Physics,1005,Physics I,Session 1,102,Alice Johnson,9,6,9,13,11,6,6,7,7,4,4,9,1,13
+53,PHYS,Physics,1105,Physics II,Session 1,101,David Lee,4,10,2,13,9,1,12,1,3,11,11,3,8,9
+54,PHYS,Physics,1105,Physics II,Session 1,102,Emily Carter,2,0,6,9,1,13,9,9,15,15,12,3,10,2
+55,PHYS,Physics,1205,Modern Physics,Session 1,101,Michael Brown,3,15,11,12,3,14,0,6,12,11,14,6,10,4
+56,PHYS,Physics,1205,Modern Physics,Session 1,102,Sarah Nguyen,10,12,6,11,2,3,9,12,4,11,3,1,0,9
+57,PHYS,Physics,1305,Thermodynamics,Session 1,101,James Miller,1,11,0,0,5,0,3,3,3,8,13,8,3,14
+58,PHYS,Physics,1305,Thermodynamics,Session 1,102,Laura Green,12,5,14,9,14,1,2,15,13,5,13,12,11,7
+59,PHYS,Physics,1405,Quantum Mechanics,Session 1,101,Daniel Harris,13,7,10,15,6,10,2,9,13,11,4,11,12,12
+60,PHYS,Physics,1405,Quantum Mechanics,Session 1,102,Grace Kim,13,5,4,15,11,0,7,8,10,6,15,14,4,8
+61,HIST,History,1006,World History,Session 1,101,Thomas Smith,11,1,14,1,4,10,4,4,11,14,0,11,12,14
+62,HIST,History,1006,World History,Session 1,102,Alice Johnson,1,8,8,15,14,5,3,6,10,10,4,7,4,0
+63,HIST,History,1106,American History,Session 1,101,David Lee,15,9,10,14,10,7,1,15,14,4,8,10,8,3
+64,HIST,History,1106,American History,Session 1,102,Emily Carter,10,6,6,5,11,13,5,5,6,11,2,11,7,0
+65,HIST,History,1206,European History,Session 1,101,Michael Brown,5,1,5,9,4,14,13,10,10,8,4,13,5,6
+66,HIST,History,1206,European History,Session 1,102,Sarah Nguyen,9,14,0,8,14,7,10,1,9,4,8,13,14,4
+67,HIST,History,1306,Ancient Civilizations,Session 1,101,James Miller,5,9,11,5,5,13,3,6,5,10,13,12,10,6
+68,HIST,History,1306,Ancient Civilizations,Session 1,102,Laura Green,7,4,7,11,15,7,8,6,13,2,0,0,2,6
+69,HIST,History,1406,Medieval History,Session 1,101,Daniel Harris,15,13,7,7,15,2,6,6,8,2,4,11,14,12
+70,HIST,History,1406,Medieval History,Session 1,102,Grace Kim,11,12,2,0,10,12,6,15,8,3,5,13,9,10
+71,PSYC,Psychology,1007,Intro Psychology,Session 1,101,Thomas Smith,8,9,9,6,5,15,9,11,7,14,5,6,12,2
+72,PSYC,Psychology,1007,Intro Psychology,Session 1,102,Alice Johnson,9,9,10,1,10,2,4,6,11,2,11,10,4,8
+73,PSYC,Psychology,1107,Cognitive Psychology,Session 1,101,David Lee,10,6,14,1,13,0,12,13,12,3,13,14,14,14
+74,PSYC,Psychology,1107,Cognitive Psychology,Session 1,102,Emily Carter,10,4,1,1,7,12,9,6,0,14,13,2,0,3
+75,PSYC,Psychology,1207,Behavioral Neuroscience,Session 1,101,Michael Brown,12,11,13,2,2,2,2,4,1,8,5,11,7,10
+76,PSYC,Psychology,1207,Behavioral Neuroscience,Session 1,102,Sarah Nguyen,1,1,5,10,12,1,14,8,7,10,1,3,1,6
+77,PSYC,Psychology,1307,Social Psychology,Session 1,101,James Miller,9,7,7,11,6,6,4,13,12,5,14,4,0,12
+78,PSYC,Psychology,1307,Social Psychology,Session 1,102,Laura Green,14,12,10,1,3,7,12,11,11,8,0,5,12,14
+79,PSYC,Psychology,1407,Developmental Psychology,Session 1,101,Daniel Harris,11,7,0,7,9,6,1,10,12,11,1,3,15,10
+80,PSYC,Psychology,1407,Developmental Psychology,Session 1,102,Grace Kim,1,8,15,3,13,10,9,11,7,11,14,9,2,5
+81,ECON,Economics,1008,Microeconomics,Session 1,101,Thomas Smith,11,2,4,11,11,1,15,11,6,5,0,6,11,6
+82,ECON,Economics,1008,Microeconomics,Session 1,102,Alice Johnson,8,13,4,0,6,2,2,5,12,11,7,3,9,7
+83,ECON,Economics,1108,Macroeconomics,Session 1,101,David Lee,2,11,4,14,7,14,5,4,13,0,4,12,4,15
+84,ECON,Economics,1108,Macroeconomics,Session 1,102,Emily Carter,11,7,12,14,4,2,7,14,10,14,0,9,3,10
+85,ECON,Economics,1208,Game Theory,Session 1,101,Michael Brown,11,5,10,10,5,3,4,8,1,11,12,11,4,4
+86,ECON,Economics,1208,Game Theory,Session 1,102,Sarah Nguyen,4,5,2,13,11,4,14,12,7,2,15,7,7,8
+87,ECON,Economics,1308,Econometrics,Session 1,101,James Miller,12,13,5,6,2,13,9,4,0,4,7,3,13,9
+88,ECON,Economics,1308,Econometrics,Session 1,102,Laura Green,3,4,0,6,3,9,7,0,8,10,1,7,2,9
+89,ECON,Economics,1408,Public Finance,Session 1,101,Daniel Harris,14,0,5,5,12,1,4,7,13,3,14,14,10,12
+90,ECON,Economics,1408,Public Finance,Session 1,102,Grace Kim,5,10,2,13,10,10,13,10,0,15,14,7,10,12
+91,STAT,Statistics,1009,Intro Statistics,Session 1,101,Thomas Smith,15,10,8,4,11,5,5,6,9,14,10,13,3,13
+92,STAT,Statistics,1009,Intro Statistics,Session 1,102,Alice Johnson,14,14,5,6,7,11,3,12,0,6,4,14,7,0
+93,STAT,Statistics,1109,Regression Analysis,Session 1,101,David Lee,8,13,9,2,7,10,6,3,3,14,15,2,6,12
+94,STAT,Statistics,1109,Regression Analysis,Session 1,102,Emily Carter,14,8,15,10,4,7,10,9,3,3,9,13,7,10
+95,STAT,Statistics,1209,Probability Theory,Session 1,101,Michael Brown,5,12,13,13,6,15,3,1,2,15,12,3,9,14
+96,STAT,Statistics,1209,Probability Theory,Session 1,102,Sarah Nguyen,6,7,6,10,6,0,7,7,7,10,5,9,12,10
+97,STAT,Statistics,1309,Experimental Design,Session 1,101,James Miller,10,5,7,1,0,15,5,15,13,2,5,2,11,4
+98,STAT,Statistics,1309,Experimental Design,Session 1,102,Laura Green,10,10,6,14,10,7,10,12,3,12,12,5,12,5
+99,STAT,Statistics,1409,Statistical Computing,Session 1,101,Daniel Harris,6,0,13,4,11,8,2,9,12,15,4,15,4,7
+100,STAT,Statistics,1409,Statistical Computing,Session 1,102,Grace Kim,13,11,6,7,9,10,12,12,7,7,13,15,7,8
